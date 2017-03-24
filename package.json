@@ -1,0 +1,28 @@
+{
+  "name": "testbot",
+  "version": "1.0.0",
+  "description": "My test azure bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinky32/testbot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "stuart brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinky32/testbot/issues"
+  },
+  "homepage": "https://github.com/jinky32/testbot#readme",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "express": "^4.15.2",
+    "https": "^1.0.0",
+    "restify": "^4.3.0"
+  }
+}
